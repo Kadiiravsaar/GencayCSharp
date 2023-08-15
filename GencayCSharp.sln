@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType-PrimitiveType", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ram'in-Yapısı", "Ram'in-Yapısı\Ram'in-Yapısı.csproj", "{6790B4E2-CE79-4E26-A05E-B622C63C2BD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenlerArasiDegerAtama", "DegiskenlerArasiDegerAtama\DegiskenlerArasiDegerAtama.csproj", "{2135CEC0-D6FD-4057-807E-D82D38240498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegiskenlerArasiDegerAtama", "DegiskenlerArasiDegerAtama\DegiskenlerArasiDegerAtama.csproj", "{2135CEC0-D6FD-4057-807E-D82D38240498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectTuru", "ObjectTuru\ObjectTuru.csproj", "{2B970F5D-F071-4725-99F2-F781F7F7ACEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectTuru", "ObjectTuru\ObjectTuru.csproj", "{2B970F5D-F071-4725-99F2-F781F7F7ACEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarKeywor", "VarKeywor\VarKeywor.csproj", "{1A7F3C31-F752-4CF0-A059-B883E155024B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VarKeywor", "VarKeywor\VarKeywor.csproj", "{1A7F3C31-F752-4CF0-A059-B883E155024B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicKeywordu", "DynamicKeywordu\DynamicKeywordu.csproj", "{367C1963-0527-4415-B84D-4A9B64C55FE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicKeywordu", "DynamicKeywordu\DynamicKeywordu.csproj", "{367C1963-0527-4415-B84D-4A9B64C55FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Expressions", "Switch-Expressions\Switch-Expressions.csproj", "{93BB2CA7-EFBD-40CC-9D66-AE7C559D49A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{367C1963-0527-4415-B84D-4A9B64C55FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{367C1963-0527-4415-B84D-4A9B64C55FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{367C1963-0527-4415-B84D-4A9B64C55FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BB2CA7-EFBD-40CC-9D66-AE7C559D49A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BB2CA7-EFBD-40CC-9D66-AE7C559D49A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BB2CA7-EFBD-40CC-9D66-AE7C559D49A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BB2CA7-EFBD-40CC-9D66-AE7C559D49A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

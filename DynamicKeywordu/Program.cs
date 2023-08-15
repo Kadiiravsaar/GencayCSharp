@@ -6,7 +6,7 @@ dynamic x = 15;
 
 // ne zaman ki uygulama derlenir çalıştırılır o  zaman ilgili türe bürünür  
 
-// ********* Ders 117 ************
+// ********* Ders 117  ************
 
 // default değerler 
 
